@@ -1,7 +1,7 @@
 import csv
 
 FILENAME= "data.csv"
-DATADIR = “Lab.1git ”
+DATADIR = “Lab.1”
 
 
 with open (DATADIR + FILENAME, "rt") as fp:
