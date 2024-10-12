@@ -1,7 +1,8 @@
 import csv
 
 FILENAME= "data.csv"
-DATADIR = “Lab01”
+DATADIR = “Lab.1”
+
 
 with open (DATADIR + FILENAME, "rt") as fp:
 reader = csv.reader(fp, delimiter=",")
