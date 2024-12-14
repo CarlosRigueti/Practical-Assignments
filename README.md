@@ -79,3 +79,9 @@ The final project involves creating a comprehensive Jupyter Notebook to demonstr
 This repository highlights the journey through the *Programming for Data Analytics* module. From foundational concepts to advanced techniques, the assessments and projects demonstrate applied knowledge in data processing, visualization, and algorithmic problem-solving.
 
 Feedback and suggestions are welcome. A feedback form will be shared near the end of the semester to gather input for enhancing future iterations of this module.
+
+#### Author: Carlos Rigueti
+
+* **Carlos Rigueti** - I am currently studing at [ATU](https://www.atu.ie/) - Atlantic Technological University the course Higher Diploma in Computing in Data Analysis. To contact me for more information, please reach me out on GitHub or add me on [LinkeIn.](https://www.linkedin.com/in/carlos-rigueti-b6323926/).
+
+***
