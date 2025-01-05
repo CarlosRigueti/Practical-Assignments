@@ -2,7 +2,7 @@
 ***
 ### Author: Carlos Rigueti
 ***
-![Data Analytics](https://github.com/user-attachments/assets/9909dd9f-56b0-4b12-8bfd-886251a59102)
+![Weather Patterns and Climate Presentation in Blue White Illustrative Style](https://github.com/user-attachments/assets/2e5107df-eb61-477d-a1ae-031a8b75830d))
 
 # Programming for Data Analytics
 
