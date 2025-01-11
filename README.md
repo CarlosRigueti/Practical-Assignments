@@ -41,9 +41,19 @@ Each practical assignment builds on foundational skills. Topics include:
 - **Random Data Generation:** Using NumPy for pseudo-random data and distributions.
 
 ## Final Project
-The final project involves creating a comprehensive Jupyter Notebook to demonstrate the learning outcomes from the module. If no specific area of interest is chosen, the suggested topic is to analyze wind speed data for wind farms.
+### Analysis of Citizenship Applications in Ireland (2017-2024)
+****
 
-**Deadline:** 13th January 2025
+![citizenship_picture](https://github.com/user-attachments/assets/cf0327d1-3c32-457b-8923-11e05f199ad5)
+
+The dataset analyzed in this case is sourced from Data.gov.ie, a platform that provides access to publicly available government data in Ireland. The specific dataset used here is titled Citizenship Applications and Decisions by Year and Nationality, and it spans the period from 2017 to 2024. This dataset includes detailed information on the number of citizenship applications received by the Irish government each year, along with the corresponding number of citizenship certificates issued.
+
+The data is organized by nationality, with separate columns for the years 2017 to 2024. For each nationality, the dataset records both the applications that were "Received" and those that were "Issued." This structure allows for a detailed analysis of citizenship application trends over time, as well as insights into how different nationalities have engaged with the Irish naturalization process.
+
+The dataset was collected by the Irish Naturalisation and Immigration Service (INIS), which is responsible for processing citizenship applications. It is regularly updated to reflect changes in the number of applications received and the status of those applications. The information in the dataset is publicly available for analysis, offering transparency into the workings of the Irish immigration system and providing a valuable resource for understanding immigration patterns and trends in the country.
+
+****
+
 
 ## Indicative Schedule
 | Week | Topic                              | Highlights                                |
@@ -61,6 +71,8 @@ The final project involves creating a comprehensive Jupyter Notebook to demonstr
 | 11-12| Project Work                      | Focused time to complete final projects  |
 
 ***
+
+
 
 ## Resources and References
 1. **GitHub Repository:** [PFDA Courseware](https://github.com/andrewbeattycourseware/PFDA-courseware.git)
