@@ -60,7 +60,7 @@ The final project involves creating a comprehensive Jupyter Notebook to demonstr
 | 10   | Review and Revise                 | Consolidating knowledge                  |
 | 11-12| Project Work                      | Focused time to complete final projects  |
 
-*Note: Topics are subject to change.*
+***
 
 ## Resources and References
 1. **GitHub Repository:** [PFDA Courseware](https://github.com/andrewbeattycourseware/PFDA-courseware.git)
@@ -74,6 +74,8 @@ The final project involves creating a comprehensive Jupyter Notebook to demonstr
    - Data Visualization
    - Machine Learning
    - Databases and SQL
+
+   ***
 
 ## Conclusion
 This repository highlights the journey through the *Programming for Data Analytics* module. From foundational concepts to advanced techniques, the assessments and projects demonstrate applied knowledge in data processing, visualization, and algorithmic problem-solving.
